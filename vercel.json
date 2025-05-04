@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NODE_MODULES_CACHE": "true",
+      "NPM_CONFIG_CACHE": "/tmp/.npm"
+    }
+  }
+}
